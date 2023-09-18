@@ -1,1 +1,3 @@
 # GraphModel
+relationmatrix 
+contact relation
